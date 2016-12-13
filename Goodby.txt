@@ -1,2 +1,2 @@
-print("Goodby")
-print("By")
+print("Goodby").
+print("By").
